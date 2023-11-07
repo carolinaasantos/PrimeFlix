@@ -122,4 +122,4 @@ Na tela de administração, o administrador tem a capacidade de visualizar todos
 Desenvolvedor Backend
 - Nicole Correa Ramos - Prototipação e Marketing
 - Maristella Rangel - Desenvolvedora Frontend
-  
+- Carolina da Silva Santos - Scrum Master
